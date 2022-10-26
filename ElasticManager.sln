@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElasticManager", "ElasticManager\ElasticManager.csproj", "{257F8C7B-C14F-4818-942C-8F335219970F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticManager.UnitTests", "ElasticManager.UnitTests\ElasticManager.UnitTests.csproj", "{6EA20B83-239B-4C14-888E-49E1FDBBF999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257F8C7B-C14F-4818-942C-8F335219970F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257F8C7B-C14F-4818-942C-8F335219970F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257F8C7B-C14F-4818-942C-8F335219970F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257F8C7B-C14F-4818-942C-8F335219970F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA20B83-239B-4C14-888E-49E1FDBBF999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA20B83-239B-4C14-888E-49E1FDBBF999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA20B83-239B-4C14-888E-49E1FDBBF999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA20B83-239B-4C14-888E-49E1FDBBF999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {163C07BE-EA6D-4E40-8AB7-990A079A9FC9}
+	EndGlobalSection
+EndGlobal
